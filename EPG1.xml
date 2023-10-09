@@ -912,8 +912,7 @@
   <channel site="tvpassport.com" lang="fr" xmltv_id="Z.ca" site_id="z/344">Z</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="Zeste.ca" site_id="zeste/7508">Zeste</channel>
   <channel site="tvpassport.com" lang="hu" xmltv_id="ERTWorldCanada.ca" site_id="ert-world-canada/3419">ERT World (Canada)</channel>
-  <channel site="tvpassport.com" lang="it" xmltv_id="MediasetItaliaCanada.ca" site_id="mediaset-italia/8436">Mediaset Italia</channel>
-  
+  <channel site="tvpassport.com" lang="it" xmltv_id="MediasetItaliaCanada.ca" site_id="mediaset-italia/8436">Mediaset Italia</channel>  
   <channel site="bt.com" lang="en" xmltv_id="4seven.uk" site_id="hswj">4seven</channel>
   <channel site="bt.com" lang="en" xmltv_id="5Action.uk" site_id="hsvx">5 Action</channel>
   <channel site="bt.com" lang="en" xmltv_id="5Select.uk" site_id="ht94">5 Select</channel>
@@ -1077,7 +1076,7 @@
   <channel site="bt.com" lang="en" xmltv_id="XpandedTV.uk" site_id="hsyv">Xpanded TV</channel>
   <channel site="bt.com" lang="en" xmltv_id="Yesterday.uk" site_id="hsvq">Yesterday</channel>
   <channel site="bt.com" lang="en" xmltv_id="YesterdayPlus1.uk" site_id="hsw7">Yesterday+1</channel>
-    <channel site="digiturk.com.tr" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="144">AL JAZEERA ENGLISH HD</channel>
+  <channel site="digiturk.com.tr" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="144">AL JAZEERA ENGLISH HD</channel>
   <channel site="digiturk.com.tr" lang="en" xmltv_id="BabyTV.uk" site_id="162">Baby TV</channel>
   <channel site="digiturk.com.tr" lang="en" xmltv_id="BBCEntertainment.uk" site_id="115">BBC Entertainment</channel>
   <channel site="digiturk.com.tr" lang="en" xmltv_id="BBCWorldNewsEurope.uk" site_id="141">BBC World News HD</channel>
