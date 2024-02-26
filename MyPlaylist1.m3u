@@ -2048,9 +2048,9 @@ http://yerelmedya.tv:1935/tv41/_definst_/bant1/HasBahCa.m3u8?checkedby:iptvcat.c
 #EXTINF:-1 group-title="Undefined",TV 41
 https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",NatGeo Live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NatGeo/live
-#EXTINF:-1 group-title="Undefined",NatGeo Live
-https://mc_qs.deta.dev/iptv-query?streaming-ip=https://www.youtube.com/c/NatGeo/live
+https://ythls.armelin.one/https://www.youtube.com/c/NatGeo/live
+
+
 
 
 
