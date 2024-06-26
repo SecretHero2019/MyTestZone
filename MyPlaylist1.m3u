@@ -2051,8 +2051,9 @@ https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8?checkedby:iptvcat.com
 https://ythls.armelin.one/iptv-query?streaming-ip=https://www.youtube.com/c/NatGeo/live
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr",TRT World HD
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png",TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
 
 
 
